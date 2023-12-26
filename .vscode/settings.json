@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin/Release/net8.0/publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/31220df9-d516-4f48-a8a1-92799b69383d/resourceGroups/az-group-doug/providers/Microsoft.Web/sites/az-webapp-doug-tools"
+}

@@ -1,0 +1,12 @@
+/Users/gvisor/dotnet/apps/azure/webapp/azure-app-doug/bin/Release/net8.0/publish/azure-app-doug
+/Users/gvisor/dotnet/apps/azure/webapp/azure-app-doug/bin/Release/net8.0/publish/publish/web.config
+/Users/gvisor/dotnet/apps/azure/webapp/azure-app-doug/bin/Release/net8.0/publish/appsettings.Development.json
+/Users/gvisor/dotnet/apps/azure/webapp/azure-app-doug/bin/Release/net8.0/publish/appsettings.json
+/Users/gvisor/dotnet/apps/azure/webapp/azure-app-doug/bin/Release/net8.0/publish/publish/appsettings.Development.json
+/Users/gvisor/dotnet/apps/azure/webapp/azure-app-doug/bin/Release/net8.0/publish/publish/appsettings.json
+/Users/gvisor/dotnet/apps/azure/webapp/azure-app-doug/bin/Release/net8.0/publish/publish/azure-app-doug.deps.json
+/Users/gvisor/dotnet/apps/azure/webapp/azure-app-doug/bin/Release/net8.0/publish/publish/azure-app-doug.runtimeconfig.json
+/Users/gvisor/dotnet/apps/azure/webapp/azure-app-doug/bin/Release/net8.0/publish/azure-app-doug.dll
+/Users/gvisor/dotnet/apps/azure/webapp/azure-app-doug/bin/Release/net8.0/publish/azure-app-doug.deps.json
+/Users/gvisor/dotnet/apps/azure/webapp/azure-app-doug/bin/Release/net8.0/publish/azure-app-doug.runtimeconfig.json
+/Users/gvisor/dotnet/apps/azure/webapp/azure-app-doug/bin/Release/net8.0/publish/azure-app-doug.pdb

@@ -1,0 +1,7 @@
+/Users/gvisor/dotnet/apps/azure/webapp/azure-app-doug/publish/azure-app-doug
+/Users/gvisor/dotnet/apps/azure/webapp/azure-app-doug/publish/appsettings.Development.json
+/Users/gvisor/dotnet/apps/azure/webapp/azure-app-doug/publish/appsettings.json
+/Users/gvisor/dotnet/apps/azure/webapp/azure-app-doug/publish/azure-app-doug.dll
+/Users/gvisor/dotnet/apps/azure/webapp/azure-app-doug/publish/azure-app-doug.deps.json
+/Users/gvisor/dotnet/apps/azure/webapp/azure-app-doug/publish/azure-app-doug.runtimeconfig.json
+/Users/gvisor/dotnet/apps/azure/webapp/azure-app-doug/publish/azure-app-doug.pdb
