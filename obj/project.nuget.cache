@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "hWqEJYLk2nmxIuca3Fn10G0sgX5AUW2ObuqLCXIwNqteLlLfwMy0bbPaHMaJc8qkywkZS/EZH1bUyabzoM0Ocw==",
+  "dgSpecHash": "ZMyYwTmaPn5GNCgng32Fjzl7O68nQNI11uAX4WsLgegUECYqdTskPJ5noD20kcf2Uibl+Eyv2UDdVWNKTt3lzQ==",
   "success": true,
   "projectFilePath": "/Users/gvisor/dotnet/apps/azure/webapp/azure-app-doug/azure-app-doug.csproj",
   "expectedPackageFiles": [],
