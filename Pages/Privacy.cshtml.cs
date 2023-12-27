@@ -14,7 +14,8 @@ public class PrivacyModel : PageModel
 
     public void OnGet()
     {
-        //throw new Exception("Testing Insights");
+        //throw new Exception("Testing Insights"); 
+        
     }
 }
 
